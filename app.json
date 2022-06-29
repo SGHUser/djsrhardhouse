@@ -1,8 +1,11 @@
 {
     "name": "djsrhardhouse",
-    "description": "That's good for me",
+    "description": "via max",
     "env": {
         "PASSWORD": {
             "description": "PASSWORD",
             "value": "password"
         }
+    },
+    "stack": "container"
+}
